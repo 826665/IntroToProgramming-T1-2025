@@ -6,11 +6,24 @@
 
 # How to define
 
-x = 10
-y = 50
-fruits = 7
+lowercase = False
+UPPERCASE = False
+camelCase = False
+UppercamelCase = False   #ALL lowercase, no spaces, capital for new words
+LowercamelCase = False   #ALL lowercase, no spaces, capital for new words
+snake_case = True        #All lowercase, underscores for space
+SCREAMING_SNAKE_CASE = False
 
 
-print(x * y / fruits)
+#Get the number as a string
+number = input("What number do you want to square\n> ")
+
+
+#Parse (Convert) the string to an integer (cast)
+
+#Do math and print
+number = int(number)
+print(number * number)
+
 
 
