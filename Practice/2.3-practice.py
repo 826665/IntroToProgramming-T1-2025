@@ -25,5 +25,13 @@ number = input("What number do you want to square\n> ")
 number = int(number)
 print(number * number)
 
+"""
+start line
 
+this is a comment
+end line
+
+everything between the triple quotes is a comment
+removes the need to write a # every line
+"""
 
