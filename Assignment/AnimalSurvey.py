@@ -8,8 +8,8 @@ Land_Or_Underwater = input("Is your animal on land or underwater or both?\n")
 '''
 The word Favortie_Animal is the like starting point, also like why, where_is_it_from, 
 Facts, Color, Sounds, Land_Or_Underwater. = what dp you want it to do same thing with
-input but something that is different about input is that you can text after the statment
-or question. the words \n moves where you text down a level and > is showing where you 
+input but something that is different about input is that you can text/string after the 
+statment or question. the words \n moves where you text down a level and > is showing where you 
 are typing.
 '''
 
