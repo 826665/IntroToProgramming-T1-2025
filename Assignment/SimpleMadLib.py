@@ -26,7 +26,7 @@ verb_3 = input("Insert a verb of your choice\n>")
 print("__________Your Story You Created__________")
 
 
-print("One day there was a " + noun_1) 
+print("One day there was a person named " + noun_1) 
 print("searching for " + noun_2)
 print("So they packed lots of " + noun_3)
 print("and headed towards his destination very " + verb_1)
