@@ -1,7 +1,6 @@
 def calculate_tax(item, price, rate):
-   print(item)
-   print(price)
-   print(rate)
+   print("The amount of tax to be collected on a " )
 
-def calculate_tax():
-   print
+
+
+calculate_tax()
