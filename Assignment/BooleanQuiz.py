@@ -16,7 +16,7 @@ print(pets <= answer3)
 
 gamer = ("gamer")
 
-answer4 = input("Are you a gammer?\n>")
+answer4 = input("Are you a gamer?\n>")
 print(gamer <= answer4)
 
 answer5 = int(input("Insert a number lower then 100\n>"))
